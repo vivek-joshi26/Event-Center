@@ -1,0 +1,79 @@
+.form {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  margin: auto;
+}
+
+.comment-parent-div {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12rem;
+}
+
+.paper-one {
+  width: 80vw;
+  /* height: 80vh; */
+  max-width: 100%;
+  max-height: 700px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+
+.paper-two {
+  width: 100%;
+  margin: 10;
+  overflow-y: scroll;
+  height: calc(100% - 80px);
+}
+
+.avatar {
+  color: blue;
+  background-color: yellow;
+  width: 2rem;
+  height: 2rem;
+}
+
+.msg-div {
+  position: relative;
+  margin-left: 20px;
+  margin-left: 10px;
+  padding: 10px;
+  background-color: whitesmoke;
+  width: 100%;
+  /* //height: "50px", */
+  text-align: left;
+  font: 400 0.9em "Open Sans", sans-serif;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+
+.msg-parent-div {
+  display: flex;
+  margin: 10px;
+}
+
+.display-msg {
+  margin-left: 20px;
+}
+
+#image-attach{
+  display:none;
+  cursor: pointer;
+}
+
+.image-forum{
+  width:100px;
+  height: 100px;
+}
+
+h4{
+  margin:0.75rem 0 0.7rem 0;
+}
