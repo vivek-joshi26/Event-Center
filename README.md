@@ -1,20 +1,5 @@
 
-# Term Project - Cloud Event Center (URL: http://3.144.117.115:3000/)
-
-## Groups for Term Project 10
-MEMBERS:
-- Vivek Joshi\
-vivek.joshi@sjsu.edu\
-014705496
-
-- Tanya Gupta\
-tanya.gupta@sjsu.edu\
-014748799
-
-- Sameer Joshi\
-sameeranil.joshi@sjsu.edu\
-015219308
-
+# Term Project - Event Center (URL: http://3.144.117.115:3000/)
 
 Instructions
 
